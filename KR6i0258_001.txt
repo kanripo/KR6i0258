@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:14:15.009871
+#+DATE: 2015-08-30 20:14:16.167601
 #+TITLE: 佛說佛印三昧經
 #+PROPERTY: CBETA_ID T15n0621
 #+PROPERTY: ID KR6i0258
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 15, No. 621
 #+PROPERTY: VOL 15
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0258_T_001-0343a> 
 #+PROPERTY: JUAN 1
 ¶
-No.621¶
-
- 《佛說佛印三昧經》一卷¶
+No. 621¶
+《佛說佛印三昧經》一卷¶
 ¶
-後漢安息國三藏安世高譯¶
+後漢安息國國三藏安世高譯¶
 
 佛在羅閱祇耆闍崛山中，時摩訶比丘僧萬¶
 二千人皆阿羅漢，時諸菩薩有四百億萬人，¶
